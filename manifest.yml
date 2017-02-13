@@ -1,0 +1,8 @@
+---
+applications:
+- name: women-for-code
+  memory: 1024M
+  instances: 1
+  host: rest-service
+  domain: guides.spring.io
+  path: target/demo-0.0.1.SNAPSHOT.jar
