@@ -16,8 +16,8 @@ public class QueryDb {
     
 	public UserRequest saveToRepository(){
 		UserRequest userRequest = new UserRequest();
-		userRequest.setFirstName("Isaac");
-		userRequest.setLastName("Lavoie");
+		userRequest.setFirstName("Valentina");
+		userRequest.setLastName("Tereshkova");
 		System.out.println("Save successfull");
 		return userRepository.save(userRequest);
 		
