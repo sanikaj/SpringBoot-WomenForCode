@@ -22,6 +22,5 @@ public class WomenInCodeMgmtController {
 	@RequestMapping(value = "/add", method = RequestMethod.GET, produces = MediaType.APPLICATION_JSON_VALUE)
 	public UserRequest add() {
 		return queryDb.saveToRepository();
-		//return null;
 	}
 }

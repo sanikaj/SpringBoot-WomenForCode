@@ -1,6 +1,6 @@
 com\women\code\controller\ValidateRegisteredUserResponse.class
+com\women\WomenForCodeApplication.class
 com\women\code\controller\UserRepository.class
-com\women\WomenInCodeApplication.class
 com\women\code\controller\QueryDb.class
 com\women\code\controller\UserRequest.class
 com\women\code\controller\WomenInCodeMgmtController.class

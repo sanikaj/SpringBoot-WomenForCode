@@ -1,0 +1,4 @@
+com\women\code\WomenForCodeTestBase.class
+com\women\code\controller\WomenFoCodeControllerTest.class
+com\women\code\mock\config\WomenForCodeTestConfig.class
+com\women\code\WomenInCodeMgmtTest.class
